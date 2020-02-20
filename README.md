@@ -1,13 +1,11 @@
 # Retail Analytics 
-
-### Key Metrics to get insights of business performance, Customer Segmentation, Customer Lifetime Value Prediction
  
 In this project I have used online dataset from UCI Machine Learning Repositories.
 Link to Repository - https://archive.ics.uci.edu/ml/datasets/online+retail
 
 ## Objective and Approach:
 
-## 1) Business Performance
+## 1) Metrics to Evaluate Business Performance 
 ### **To identify Business Key Metrics and evaluate the performance over years**
 
 **Approach**
@@ -20,7 +18,7 @@ Worked on deriving the following metrics :
 * New customer Ratio
 * Monthly Retention Rate
 
-## 2) Understanding Customers
+## 2) Understanding Customers - Customer Segmentation
 ### **Perform Customer Segmentation group customers with similar behaviour to analyze the segments,understand customer behaviour and to recommend effective marketing startigies for each segment**
 I
 **Approach**
